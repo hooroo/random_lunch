@@ -44,4 +44,12 @@ class RandomLunch
   def self.pick
     PLACES.sample[:name]
   end
+
+  def self.is_closed?(shop)
+    shop[:closed].include?(today)
+  end
+
+  def self.today
+    Time.now.strftime("%A")
+  end
 end
