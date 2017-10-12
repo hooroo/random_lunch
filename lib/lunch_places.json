@@ -3,192 +3,192 @@
     {
       "name": "On It Burgers",
       "type": "Burgers",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "Mr Scruffs",
       "type": "Burgers",
-      "closed": ["Monday"]
+      "daysClosed": ["Monday"]
     },
     {
       "name": "Grace Darling Hotel",
       "type": "Burgers",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "Huxtaburger",
       "type": "Burgers",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "Le Bon Ton",
       "type": "Burgers",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "Archie's All Day",
       "type": "Burgers",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "Shizuku Ramen",
       "type": "Ramen",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "Neko Neko Ramen",
       "type": "Ramen",
-      "closed": ["Sunday"]
+      "daysClosed": ["Sunday"]
     },
     {
       "name": "Shop Ramen",
       "type": "Ramen",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "PHO Hung Vuong 2",
       "type": "Pho",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "Super Bowl Pho & Bun Bo Hue",
       "type": "Pho",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "Trippy Taco",
       "type": "Mexican",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "Beach Burrito Fitzroy",
       "type": "Mexican",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "Fonda",
       "type": "Mexican",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "N.Lee Bakery",
       "type": "Vietnamese",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "Cambridge Cafe",
       "type": "Sandwiches",
-      "closed": ["Sunday"]
+      "daysClosed": ["Sunday"]
     },
     {
       "name": "Po Boy Quarter",
       "type": "Sandwiches",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "Jimmy Grants Fitzroy",
       "type": "Kebabs & Souvlakis",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "Biggie Smalls",
       "type": "Kebabs & Souvlakis",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "Aka Siro",
       "type": "Japanese",
-      "closed": ["Monday", "Tuesday"]
+      "daysClosed": ["Monday", "Tuesday"]
     },
     {
       "name": "Hinoki Japanese Pantry",
       "type": "Japanese",
-      "closed": ["Monday"]
+      "daysClosed": ["Monday"]
     },
     {
       "name": "Peko Peko",
       "type": "Japanese",
-      "closed": ["Sunday"]
+      "daysClosed": ["Sunday"]
     },
     {
       "name": "Mina-no-ie",
       "type": "Japanese",
-      "closed": ["Sunday", "Monday"]
+      "daysClosed": ["Sunday", "Monday"]
     },
     {
       "name": "Marimo Sushi",
       "type": "Japanese",
-      "closed": ["Saturday", "Sunday"]
+      "daysClosed": ["Saturday", "Sunday"]
     },
     {
       "name": "Two Birds Cafe",
       "type": "Cafés",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "Proud Mary",
       "type": "Cafés",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "Square and Compass",
       "type": "Cafés",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "South of Johnston",
       "type": "Cafés",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "Allpress Espresso",
       "type": "Cafés",
-      "closed": ["Sunday"]
+      "daysClosed": ["Sunday"]
     },
     {
       "name": "Plug Nickel",
       "type": "Cafés",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "Lemon Middle and Orange",
       "type": "Cafés",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "Mr Peel Cafe",
       "type": "Cafés",
-      "closed": ["Sunday"]
+      "daysClosed": ["Sunday"]
     },
     {
       "name": "LazerPig",
       "type": "Pizza",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "Kiwi (Fish and Chips)",
       "type": "Other",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "Pasta Classica",
       "type": "Other",
-      "closed": ["Sunday"]
+      "daysClosed": ["Sunday"]
     },
     {
       "name": "Bowl Bowl Dumpling",
       "type": "Other",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "Jinda Thai Restaurant",
       "type": "Other",
-      "closed": []
+      "daysClosed": []
     },
     {
       "name": "ISpicy Richmond",
       "type": "Other",
-      "closed": []
+      "daysClosed": []
     }
   ]
 }

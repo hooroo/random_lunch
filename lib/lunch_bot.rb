@@ -7,11 +7,7 @@ class LunchBot
   end
 
   def self.is_closed?(shop)
-    shop["closed"].include?(today)
-  end
-
-  def self.today
-    Time.now.strftime("%A")
+    shop["daysClosed"].include?(today)
   end
 
   private
@@ -21,5 +17,9 @@ class LunchBot
     filename = File.join(dirname, 'lunch_places.json')
 
     JSON.parse(File.read(filename))["places"]
+  end
+
+  def self.today
+    Time.now.strftime("%A")
   end
 end
