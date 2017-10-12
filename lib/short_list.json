@@ -1,0 +1,14 @@
+{
+  "places": [
+    {
+      "name": "On It Burgers",
+      "type": "Burgers",
+      "closed": []
+    },
+    {
+      "name": "Mr Scruffs",
+      "type": "Burgers",
+      "closed": ["Monday"]
+    }
+  ]
+}
